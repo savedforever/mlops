@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ksome/mlops-assignment/mlruns/375657399447121571/cdd56dcb7b2f461887fd45870b4e6b53/artifacts
+end_time: 1753550157818
+entry_point_name: ''
+experiment_id: '375657399447121571'
+lifecycle_stage: active
+run_id: cdd56dcb7b2f461887fd45870b4e6b53
+run_name: Linear Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753550142547
+status: 3
+tags: []
+user_id: ksome

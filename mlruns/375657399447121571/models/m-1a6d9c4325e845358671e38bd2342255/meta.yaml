@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ksome/mlops-assignment/mlruns/375657399447121571/models/m-1a6d9c4325e845358671e38bd2342255/artifacts
+creation_timestamp: 1753550557219
+experiment_id: '375657399447121571'
+last_updated_timestamp: 1753550560887
+model_id: m-1a6d9c4325e845358671e38bd2342255
+model_type: null
+name: model
+source_run_id: 9f7fff3b567c47a6a3dcace366ce9592
+status: 2
+status_message: null

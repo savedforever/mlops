@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ksome/mlops-assignment/mlruns/375657399447121571/75f84298675d4b2294c4d08f4a7fda85/artifacts
+end_time: 1753550697584
+entry_point_name: ''
+experiment_id: '375657399447121571'
+lifecycle_stage: active
+run_id: 75f84298675d4b2294c4d08f4a7fda85
+run_name: Decision Tree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753550693265
+status: 3
+tags: []
+user_id: ksome
