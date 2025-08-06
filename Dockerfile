@@ -16,8 +16,8 @@ COPY ./src /app/src
 # would connect to a remote MLflow tracking server instead.
 COPY ./mlruns /app/mlruns
 
-# Make port 8000 available to the outside world
-EXPOSE 8000
+# Make port 5000 available to the outside world
+EXPOSE 5001
 
 # The command to run when the container starts
-CMD ["uvicorn", "src.app:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["uvicorn", "src.app:app", "--host", "0.0.0.0", "--port", "5000"]
